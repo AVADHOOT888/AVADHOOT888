@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Autade</h1>
 <h3 align="center">A passionate web developer, self taught programmer!!🚀</h3>
 
+<hr>
+
 📫 How to reach me **avadhootautade111@gmail.com**
 
 
@@ -15,6 +17,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadhoot888&show_icons=true&locale=en&theme=dark" alt="avadhoot888" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadhoot888&show_icons=true&locale=en&layout=compact&theme=dark" alt="avadhoot888" /></p>
+
+<hr>
 
 <h3 align="left">Connect with me😃:</h3>
 <p align="left">
