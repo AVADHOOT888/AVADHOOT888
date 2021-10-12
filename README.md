@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Autade</h1>
 <h3 align="center">A passionate web developer, self taught programmer!!🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhoot888&label=Profile%20views&color=0e75b6&style=flat" alt="avadhoot888" /> </p>
-
 📫 How to reach me **avadhootautade111@gmail.com**
 
 
