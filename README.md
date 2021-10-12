@@ -15,9 +15,9 @@
 
 <hr>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadhoot888&show_icons=true&locale=en&theme=dark" alt="avadhoot888" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadhoot888&show_icons=true&locale=en&layout=compact&theme=dark" alt="avadhoot888" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadhoot888&show_icons=true&locale=en&theme=dark" alt="avadhoot888" /></p>
 <hr>
 <h3 align="left">Connect with me😃:</h3>
 <p align="left">
