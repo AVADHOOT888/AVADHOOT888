@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avadhoot Autade</h1>
 <h3 align="center">A passionate web developer, self taught programmer!!🚀</h3>
-<h3 align="center">Co-Founder The AIVoice</h3>
 
 <hr>
 
